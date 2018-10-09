@@ -1,7 +1,6 @@
 # Daily Kata
 
-I have taken a challenge to solve at least 1 CodeWars Kata every day.
-
+I have taken a challenge to solve at least 1 CodeWars Kata every day.  
 The solutions are stored in this repository.
 
 ## Katas by programing languages
