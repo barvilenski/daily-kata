@@ -7,7 +7,7 @@ The solutions are stored in this repository.
 
 | Programing Language | Katas Count |
 | ------------------- | :---------: |
-| JavaScript          |           2 |
+| JavaScript          |           3 |
 
 
 **CodeWars Profile** - [barvilenski](https://www.codewars.com/users/vbarv24).
