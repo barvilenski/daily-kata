@@ -2,3 +2,4 @@
 1. List Filtering
 2. Is this a triangle?
 3. Sum of Digits / Digital Root
+4. Multiples of 3 or 5
