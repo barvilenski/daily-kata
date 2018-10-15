@@ -5,3 +5,4 @@
 4. Multiples of 3 or 5
 5. Maximum subarray sum
 6. Lottery Ticket
+7. Find The Parity Outlier
