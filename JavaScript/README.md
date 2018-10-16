@@ -6,3 +6,4 @@
 5. Maximum subarray sum
 6. Lottery Ticket
 7. Find The Parity Outlier
+8. Find the odd int
