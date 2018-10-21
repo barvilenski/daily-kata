@@ -2,3 +2,4 @@
 1. Replace With Alphabet Position
 2. First character that repeats
 3. Integer depth
+4. Mumbling
