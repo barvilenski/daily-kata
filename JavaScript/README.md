@@ -8,3 +8,4 @@
 7. Find The Parity Outlier
 8. Find the odd int
 9. Persistent Bugger
+10. Stop gninnipS My sdroW!
