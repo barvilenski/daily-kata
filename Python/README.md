@@ -3,3 +3,4 @@
 2. First character that repeats
 3. Integer depth
 4. Mumbling
+5. Take a Ten Minute Walk
