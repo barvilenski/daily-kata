@@ -4,3 +4,4 @@
 3. Integer depth
 4. Mumbling
 5. Take a Ten Minute Walk
+6. String incrementer
