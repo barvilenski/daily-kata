@@ -5,3 +5,4 @@
 4. Mumbling
 5. Take a Ten Minute Walk
 6. String incrementer
+7. Valid Parentheses
