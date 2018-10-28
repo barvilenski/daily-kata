@@ -1,6 +1,6 @@
 /* Name: A Chain adding function
  * Level: 5kyu
- * Description: We want to create a function that will add numbers together when
+ * Instructions: We want to create a function that will add numbers together when
  * called in succession.
  * add(1)(2); // returns 3
  * We also want to be able to continue to add numbers to our chain.
