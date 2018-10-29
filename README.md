@@ -9,7 +9,7 @@ The solutions are stored in this repository.
 | Programing Language | Katas Count |
 | ------------------- | :---------: |
 | JavaScript          |          13 |
-| Python              |           7 |
+| Python              |           8 |
 
 
 **CodeWars Profile** - [barvilenski](https://www.codewars.com/users/vbarv24).
