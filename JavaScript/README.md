@@ -13,3 +13,4 @@
 12. Counting Duplicates
 13. A Chain adding function
 14. Moving Zeros To The End
+15. Sum Strings as Numbers
