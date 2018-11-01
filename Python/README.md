@@ -7,3 +7,4 @@
 6. String incrementer
 7. Valid Parentheses
 8. Simple Pig Latin
+9. Human Readable Time
