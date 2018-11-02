@@ -14,3 +14,4 @@
 13. A Chain adding function
 14. Moving Zeros To The End
 15. Sum Strings as Numbers
+16. Shortest Word
