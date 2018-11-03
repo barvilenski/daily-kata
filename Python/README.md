@@ -8,3 +8,4 @@
 7. Valid Parentheses
 8. Simple Pig Latin
 9. Human Readable Time
+10. Scramblies
