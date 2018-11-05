@@ -9,3 +9,4 @@
 8. Simple Pig Latin
 9. Human Readable Time
 10. Scramblies
+11. First non-repeating character
