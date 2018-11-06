@@ -16,3 +16,4 @@
 15. Sum Strings as Numbers
 16. Shortest Word
 17. Merged String Checker
+18. The observed PIN
