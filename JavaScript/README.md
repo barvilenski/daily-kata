@@ -17,3 +17,4 @@
 16. Shortest Word
 17. Merged String Checker
 18. The observed PIN
+19. Directions Reduction
