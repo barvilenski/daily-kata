@@ -11,3 +11,4 @@
 10. Scramblies
 11. First non-repeating character
 12. Double Cola
+13. Sum of Pairs
