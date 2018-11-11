@@ -18,3 +18,4 @@
 17. Merged String Checker
 18. The observed PIN
 19. Directions Reduction
+20. Calculating with Functions
