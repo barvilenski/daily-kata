@@ -20,3 +20,4 @@
 19. Directions Reduction
 20. Calculating with Functions
 21. Weight for weight
+22. Equal Sides Of An Array
