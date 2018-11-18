@@ -22,3 +22,4 @@
 21. Weight for weight
 22. Equal Sides Of An Array
 23. Integers: Recreation One
+24. Vowel Count
