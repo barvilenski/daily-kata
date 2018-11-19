@@ -15,3 +15,4 @@
 14. Product of consecutive Fib numbers
 15. Best travel
 16. Get the Middle Character
+17. Duplicate Encoder
