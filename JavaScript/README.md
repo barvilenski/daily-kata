@@ -24,3 +24,4 @@
 23. Integers: Recreation One
 24. Vowel Count
 25. Bit Counting
+26. Highest and Lowest
