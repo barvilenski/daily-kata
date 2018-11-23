@@ -17,3 +17,4 @@
 16. Get the Middle Character
 17. Duplicate Encoder
 18. Vasya - Clerk
+19. Unique In Order
