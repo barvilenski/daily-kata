@@ -18,3 +18,4 @@
 17. Duplicate Encoder
 18. Vasya - Clerk
 19. Unique In Order
+20. Number of trailing zeros of N!
