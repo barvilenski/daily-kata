@@ -20,3 +20,4 @@
 19. Unique In Order
 20. Number of trailing zeros of N!
 21. Exes and Ohs
+22. RGB To Hex Conversion
