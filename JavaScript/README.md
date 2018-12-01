@@ -29,3 +29,4 @@
 28. Valid Braces
 29. Are they the "same"?
 30. Can you get the loop?
+31. Square Every Digit
