@@ -31,3 +31,4 @@
 30. Can you get the loop?
 31. Square Every Digit
 32. Consecutive strings
+33. Pete, the baker
