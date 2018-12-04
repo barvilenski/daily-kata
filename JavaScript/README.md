@@ -32,3 +32,4 @@
 31. Square Every Digit
 32. Consecutive strings
 33. Pete, the baker
+34. Find the missing letter
