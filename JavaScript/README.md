@@ -33,3 +33,4 @@
 32. Consecutive strings
 33. Pete, the baker
 34. Find the missing letter
+35. Where my anagrams at?
