@@ -34,3 +34,4 @@
 33. Pete, the baker
 34. Find the missing letter
 35. Where my anagrams at?
+36. Jaden Casing Strings
