@@ -35,3 +35,4 @@
 34. Find the missing letter
 35. Where my anagrams at?
 36. Jaden Casing Strings
+37. Sum of two lowest positive integers
