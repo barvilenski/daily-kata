@@ -38,3 +38,4 @@
 37. Sum of two lowest positive integers
 38. Complementary DNA
 39. Two to One
+40. Friend or Foe?
