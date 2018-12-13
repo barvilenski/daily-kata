@@ -40,3 +40,4 @@
 39. Two to One
 40. Friend or Foe?
 41. Sort the odd
+42. Playing with digits
