@@ -42,3 +42,4 @@
 41. Sort the odd
 42. Playing with digits
 43. Who likes it?
+44. Array.diff
