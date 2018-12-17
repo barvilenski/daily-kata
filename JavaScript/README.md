@@ -43,3 +43,4 @@
 42. Playing with digits
 43. Who likes it?
 44. Array.diff
+45. IQ Test
