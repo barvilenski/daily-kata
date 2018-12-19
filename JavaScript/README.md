@@ -44,3 +44,4 @@
 43. Who likes it?
 44. Array.diff
 45. IQ Test
+46. Delete occurrences of an element if it occurs more than n times
