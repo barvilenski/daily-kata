@@ -46,3 +46,4 @@
 45. IQ Test
 46. Delete occurrences of an element if it occurs more than n times
 47. Format a string of names like 'Bart, Lisa & Maggie'.
+48. Create Phone Number
