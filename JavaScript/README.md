@@ -50,3 +50,4 @@
 49. Ones and Zeros
 50. Reverse words
 51. Build Tower
+52. Beginner Series #3 Sum of Numbers
