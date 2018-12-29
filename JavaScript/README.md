@@ -54,3 +54,4 @@
 53. Credit Card Mask
 54. Binary Addition
 55. You're a square!
+56. Find the divisors!
