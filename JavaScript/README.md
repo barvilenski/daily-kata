@@ -58,3 +58,4 @@
 57. Does my number look big in this?
 58. Common Denominators
 59. Remove the minimum
+60. Highest Scoring Word
