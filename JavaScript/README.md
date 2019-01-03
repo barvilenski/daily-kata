@@ -59,3 +59,4 @@
 58. Common Denominators
 59. Remove the minimum
 60. Highest Scoring Word
+61. Number of People in the Bus
