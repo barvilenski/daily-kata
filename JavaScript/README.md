@@ -64,3 +64,4 @@
 63. Growth of a Population
 64. Odd or Even?
 65. Title Case
+66. Sum of all the multiples of 3 or 5
