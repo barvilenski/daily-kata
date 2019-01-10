@@ -67,3 +67,4 @@
 66. Sum of all the multiples of 3 or 5
 67. Count the Digit
 68. Sum of odd numbers
+69. Isograms
