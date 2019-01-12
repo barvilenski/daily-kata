@@ -69,3 +69,4 @@
 68. Sum of odd numbers
 69. Isograms
 70. Which are in?
+71. Length of missing array
