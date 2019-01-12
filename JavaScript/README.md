@@ -68,3 +68,4 @@
 67. Count the Digit
 68. Sum of odd numbers
 69. Isograms
+70. Which are in?
