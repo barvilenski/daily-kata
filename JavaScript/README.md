@@ -71,3 +71,4 @@
 70. Which are in?
 71. Length of missing array
 72. Maximum Length Difference
+73. Broken sequence
