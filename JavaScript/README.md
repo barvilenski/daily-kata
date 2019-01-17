@@ -72,3 +72,4 @@
 71. Length of missing array
 72. Maximum Length Difference
 73. Broken sequence
+74. Categorize New Member
