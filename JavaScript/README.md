@@ -73,3 +73,4 @@
 72. Maximum Length Difference
 73. Broken sequence
 74. Categorize New Member
+75. Find the smallest integer in the array
