@@ -74,3 +74,4 @@
 73. Broken sequence
 74. Categorize New Member
 75. Find the smallest integer in the array
+76. Sum of positive
