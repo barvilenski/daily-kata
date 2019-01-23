@@ -77,3 +77,4 @@
 76. Sum of positive
 77. String repeat
 78. Remove String Spaces
+79. Convert boolean values to strings 'Yes' or 'No'.
