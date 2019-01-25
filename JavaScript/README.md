@@ -79,3 +79,4 @@
 78. Remove String Spaces
 79. Convert boolean values to strings 'Yes' or 'No'.
 80. Convert number to reversed array of digits
+81. Opposite number
