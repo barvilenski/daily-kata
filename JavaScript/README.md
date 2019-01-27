@@ -81,3 +81,4 @@
 80. Convert number to reversed array of digits
 81. Opposite number
 82. Even or Odd
+83. Return Negative
