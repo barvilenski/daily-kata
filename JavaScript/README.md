@@ -85,3 +85,4 @@
 84. Remove First and Last Character
 85. Counting sheep...
 86. Convert a Number to a String!
+87. Calculate average
