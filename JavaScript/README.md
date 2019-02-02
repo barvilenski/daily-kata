@@ -86,3 +86,4 @@
 85. Counting sheep...
 86. Convert a Number to a String!
 87. Calculate average
+88. Invert values
