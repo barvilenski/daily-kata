@@ -88,3 +88,4 @@
 87. Calculate average
 88. Invert values
 89. Reversed Strings
+90. Reversed sequence
