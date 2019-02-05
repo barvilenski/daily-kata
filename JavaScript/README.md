@@ -89,3 +89,4 @@
 88. Invert values
 89. Reversed Strings
 90. Reversed sequence
+91. Is n divisible by x and y?
