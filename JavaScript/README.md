@@ -90,3 +90,4 @@
 89. Reversed Strings
 90. Reversed sequence
 91. Is n divisible by x and y?
+92. Count of positives / sum of negatives
