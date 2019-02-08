@@ -92,3 +92,4 @@
 91. Is n divisible by x and y?
 92. Count of positives / sum of negatives
 93. Rock Paper Scissors!
+94. Sum without highest and lowest number
