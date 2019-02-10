@@ -94,3 +94,4 @@
 93. Rock Paper Scissors!
 94. Sum without highest and lowest number
 95. Find Maximum and Minimum Values of a List
+96. Double Char
