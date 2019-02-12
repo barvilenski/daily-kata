@@ -96,3 +96,4 @@
 95. Find Maximum and Minimum Values of a List
 96. Double Char
 97. Fake Binary
+98. Century From Year
