@@ -97,3 +97,4 @@
 96. Double Char
 97. Fake Binary
 98. Century From Year
+99. Square(n) Sum
