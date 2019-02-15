@@ -98,3 +98,4 @@
 97. Fake Binary
 98. Century From Year
 99. Square(n) Sum
+100. Next bigger number with the same digits
