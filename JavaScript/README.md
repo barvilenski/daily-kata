@@ -99,3 +99,4 @@
 98. Century From Year
 99. Square(n) Sum
 100. Next bigger number with the same digits
+101. Perimeter of squares in a rectangle
