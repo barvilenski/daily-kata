@@ -8,7 +8,7 @@ The solutions are stored in this repository.
 
 | Programing Language | Katas Count |
 | ------------------- | :---------: |
-| JavaScript          |         104 |
+| JavaScript          |         105 |
 | Python              |          22 |
 
 
