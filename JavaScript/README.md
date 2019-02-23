@@ -104,3 +104,4 @@
 103. Count by X
 104. Do I get a bonus?
 105. Basic Mathematical Operations
+106. Money, Money, Money
