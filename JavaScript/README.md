@@ -110,3 +110,4 @@
 109. Abbreviate a Two Word Name
 110. altERnaTIng cAsE <=> ALTerNAtiNG CaSe
 111. Convert a String to a Number!
+112. Reversed Words
