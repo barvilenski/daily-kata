@@ -112,3 +112,4 @@
 111. Convert a String to a Number!
 112. Reversed Words
 113. Remove exclamation marks
+114. Get the mean of an array
