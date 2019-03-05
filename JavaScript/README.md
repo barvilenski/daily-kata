@@ -113,3 +113,4 @@
 112. Reversed Words
 113. Remove exclamation marks
 114. Get the mean of an array
+115. Simple multiplication
