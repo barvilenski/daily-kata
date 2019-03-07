@@ -114,3 +114,4 @@
 113. Remove exclamation marks
 114. Get the mean of an array
 115. Simple multiplication
+116. Beginner - Reduce but Grow
