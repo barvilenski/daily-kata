@@ -116,3 +116,4 @@
 115. Simple multiplication
 116. Beginner - Reduce but Grow
 117. Don't give me five!
+118. Find the stray number
