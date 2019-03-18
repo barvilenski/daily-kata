@@ -124,3 +124,4 @@
 123. Keep Hydrated!
 124. Is he gonna survive?
 125. Find the middle element
+126. Split Strings
