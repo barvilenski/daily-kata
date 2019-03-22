@@ -128,3 +128,4 @@
 127. Convert string to camel case
 128. Find numbers which are divisible by given number
 129. get character from ASCII Value
+130. Shortest Distance to a Character
