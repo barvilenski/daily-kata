@@ -130,3 +130,4 @@
 129. get character from ASCII Value
 130. Shortest Distance to a Character
 131. IP Validation
+132. Remove Empty Items of Array
