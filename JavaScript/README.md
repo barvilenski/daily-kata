@@ -137,3 +137,4 @@
 136. If you can't sleep, just count sheep!!
 137. Total amount of points
 138. Return the day
+139. Primes in numbers
