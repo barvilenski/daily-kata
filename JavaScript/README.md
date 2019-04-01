@@ -138,3 +138,4 @@
 137. Total amount of points
 138. Return the day
 139. Primes in numbers
+140. String ends with?
