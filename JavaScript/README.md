@@ -140,3 +140,4 @@
 139. Primes in numbers
 140. String ends with?
 141. Student's Final Grade
+142. Hex Word Sum
