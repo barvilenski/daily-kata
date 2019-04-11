@@ -146,3 +146,4 @@
 145. Encrypt this!
 146. Is the string uppercase?
 147. What's up next?
+148. Correct the mistakes of the character recognition software
