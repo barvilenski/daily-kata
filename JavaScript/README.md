@@ -148,3 +148,4 @@
 147. What's up next?
 148. Correct the mistakes of the character recognition software
 149. Ordered Count of Characters
+150. Shift Left
