@@ -149,3 +149,4 @@
 148. Correct the mistakes of the character recognition software
 149. Ordered Count of Characters
 150. Shift Left
+151. Fibonacci Reloaded
