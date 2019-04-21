@@ -156,3 +156,4 @@
 155. Tribonacci Sequence
 156. Reverse a Number
 157. Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right
+158. Sum Arrays
