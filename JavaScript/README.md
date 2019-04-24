@@ -158,3 +158,4 @@
 157. Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right
 158. Sum Arrays
 159. Reverse List Order
+160. get ascii value of character
