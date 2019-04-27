@@ -160,3 +160,4 @@
 159. Reverse List Order
 160. get ascii value of character
 161. Removing Elements
+162. Sum of differences in array
