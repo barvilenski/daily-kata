@@ -161,3 +161,4 @@
 160. get ascii value of character
 161. Removing Elements
 162. Sum of differences in array
+163. String Scramble
