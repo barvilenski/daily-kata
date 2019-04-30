@@ -162,3 +162,4 @@
 161. Removing Elements
 162. Sum of differences in array
 163. String Scramble
+164. Will there be enough space?
