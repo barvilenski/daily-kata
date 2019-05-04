@@ -164,3 +164,4 @@
 163. String Scramble
 164. Will there be enough space?
 165. Convert to Binary
+166. Hex to Decimal
