@@ -167,3 +167,4 @@
 166. Hex to Decimal
 167. Opposites Attract
 168. Is It Negative Zero (-0)?
+169. Power of two
