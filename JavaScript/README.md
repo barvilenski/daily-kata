@@ -171,3 +171,4 @@
 170. Tail Swap
 171. Next Version
 172. CamelCase Method
+173. WeIrD StRiNg CaSe
