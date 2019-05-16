@@ -172,3 +172,4 @@
 171. Next Version
 172. CamelCase Method
 173. WeIrD StRiNg CaSe
+174. Stringy Strings
