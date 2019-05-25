@@ -177,3 +177,4 @@
 176. To square(root) or not to square(root)
 177. Powers of 2
 178. How good are you really?
+179. MakeUpperCase
