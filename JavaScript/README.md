@@ -179,3 +179,4 @@
 178. How good are you really?
 179. MakeUpperCase
 180. Most digits
+181. No zeros for heros
