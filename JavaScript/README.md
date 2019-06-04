@@ -183,3 +183,4 @@
 182. String prefix and suffix
 183. Returning Strings
 184. Array plus array
+185. Sum Mixed Array
