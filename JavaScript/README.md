@@ -185,3 +185,4 @@
 184. Array plus array
 185. Sum Mixed Array
 186. Find Nearest square number
+187. How many arguments
