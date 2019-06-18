@@ -193,3 +193,4 @@
 192. Is a number prime?
 193. Third Angle of a Triangle
 194. Bin to Decimal
+195. Count the Monkeys!
