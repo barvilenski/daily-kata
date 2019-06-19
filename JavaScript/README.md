@@ -194,3 +194,4 @@
 193. Third Angle of a Triangle
 194. Bin to Decimal
 195. Count the Monkeys!
+196. Convert a Boolean to a String
