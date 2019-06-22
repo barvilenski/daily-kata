@@ -196,3 +196,4 @@
 195. Count the Monkeys!
 196. Convert a Boolean to a String
 197. How many lightsabers do you own?
+198. Find out whether the shape is a cube
