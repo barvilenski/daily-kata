@@ -10,6 +10,3 @@ The solutions are stored in this repository.
 | ------------------- | :---------: |
 | JavaScript          |         202 |
 | Python              |          22 |
-
-
-**CodeWars Profile** - [barvilenski](https://www.codewars.com/users/vbarv24).
